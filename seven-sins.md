@@ -62,3 +62,20 @@
   - Two juniors dont make a senior
   - Not licensing helpful tools
   - Cost cutting on enviroments/developer notebooks.
+
+# Envy
+## Weaknesses in EE Specifications
+- aka application server specific features
+- will kill you effectively multiple times
+  - new version of same server
+  - different server
+  - different spec version
+
+# Sloth
+## "Efficiency is intelligent laziness"
+- No refactoring
+- No reuse
+- Copy and paste
+- Too simple
+- No improvement
+- No peer review
