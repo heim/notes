@@ -1,0 +1,7 @@
+Lust:
+- Golden taps
+- Over engineering
+  - patterns
+  - masse interfaces
+  - morgendagens problemer
+  - prematur optmialisering

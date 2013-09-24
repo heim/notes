@@ -1,0 +1,19 @@
+Async
+Value
+Event
+Push
+
+Lambdas
+Closures
+Pure
+Composable
+
+
+Rx støtter Clojure, Groovy, Scala, Jruby, Java8
+
+Problem med Futures (Future<List<Future>>)
+
+Iterable - pull
+Observable - push
+
+
