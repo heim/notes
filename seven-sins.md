@@ -79,3 +79,17 @@
 - Too simple
 - No improvement
 - No peer review
+
+## No nothing
+- No usability testing
+- No behaviour testing
+- No acceptance testing
+- No business testing
+- No unit testing
+- No performance testing
+- No security testing
+
+# Pride
+## I can to it better ... I am better
+- See "lust" ("not invented here")
+- There shouldn't be a head architect that knows everyting.
