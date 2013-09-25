@@ -25,5 +25,5 @@
 - Sex sells, make it look good
 - Java Developers tend to make a bad UX
 
-Resten av foredraget er en opplisting av verktøy som han syns vi bør bruke, 
-men som absolutt alle med litt omløp i huet har brukt i flere år.
+Resten av foredraget er en opplisting av verktøy og teknikker som han syns vi bør bruke, 
+men som alle som har utviklet en halvmoderne webapp har brukt i flere år.
